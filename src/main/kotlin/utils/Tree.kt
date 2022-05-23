@@ -1,7 +1,5 @@
 package utils
 
-import Path
-
 /**
  * A Tree encapsulating the Nodes
  *
